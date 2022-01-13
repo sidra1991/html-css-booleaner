@@ -1,3 +1,4 @@
+
 #logo {
     margin-top: 15px;
     width: 150px;
@@ -6,9 +7,10 @@ header{
     background-color: rgb(78,160,255);
 }
 #pattern {
-    background-image: url(img/img/img/pattern.png);
+    background-image: url(../img/img/img/pattern.png);
     background-size: contain;
     height: 70px;
+    width: 100%;
 }
 .c-gray {
     color: gray;
@@ -46,8 +48,8 @@ table {
     margin-top: 5px;
 }
 .monitor {
-    background-image: url(img/img/img/monitor.jpg);
+    background-image: url(../img/img/img/monitor.jpg);
 }
 .covid {
-    background-image: url(img/img/img/graph.jpg);
+    background-image: url(../img/img/img/graph.jpg);
 }

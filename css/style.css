@@ -10,7 +10,7 @@ header{
     background-size: contain;
     height: 70px;
 }
-#uffa {
+.c-gray {
     color: gray;
 }
 a {
@@ -36,4 +36,18 @@ background-color: yellow;
 table {
     margin: 0;
     border: 0;
+}
+.scheda {
+    width: 180px;
+    height: 140px;
+    color: white;
+    text-align: center;
+    background-size:cover;
+    margin-top: 5px;
+}
+.monitor {
+    background-image: url(img/img/img/monitor.jpg);
+}
+.covid {
+    background-image: url(img/img/img/graph.jpg);
 }

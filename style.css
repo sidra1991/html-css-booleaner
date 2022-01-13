@@ -1,10 +1,14 @@
+#logo {
+    margin-top: 15px;
+    width: 150px;
+}
 header{
     background-color: rgb(78,160,255);
 }
 #pattern {
     background-image: url(img/img/img/pattern.png);
     background-size: contain;
-    height: 50px;
+    height: 70px;
 }
 #uffa {
     color: gray;
@@ -18,4 +22,18 @@ a {
 }
 .evidenziato {
 background-color: yellow;
+}
+.tab-1 {
+    width: 20%;
+}
+.color-blue {
+    background-color: blue;
+    color:white;
+}
+.color-yb {
+    background-color: #b1e5f2;
+}
+table {
+    margin: 0;
+    border: 0;
 }

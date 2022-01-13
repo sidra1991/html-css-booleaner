@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(78,160,255);
+}
+#pattern {
+    background-image: url(img/img/img/pattern.png);
+    background-size: contain;
+    height: 50px;
+}
+div p {
+    color: gray;
+}
+a {
+    color: rgb(78,160,255);
+    text-decoration: none;
+}

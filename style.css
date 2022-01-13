@@ -6,7 +6,7 @@ header{
     background-size: contain;
     height: 50px;
 }
-div p {
+#uffa {
     color: gray;
 }
 a {
@@ -15,4 +15,7 @@ a {
 }
 .mini {
     font-size: 10px;
+}
+.evidenziato {
+background-color: yellow;
 }
